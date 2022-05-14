@@ -1,5 +1,7 @@
-## READ ME FILE
+## Readme file
 
-This is a simple read me file !!!!
+this is a readme file
 
-I hope it isn't much of a problem
+## Branch
+
+this will cause troubles
