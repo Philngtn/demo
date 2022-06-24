@@ -1,7 +1,7 @@
-## Readme file
+# README file 
 
-this is a readme file
+This is the master line
 
-## Branch
+# LINE 2
 
-this will cause troubles
+This will cause troubles in branch
